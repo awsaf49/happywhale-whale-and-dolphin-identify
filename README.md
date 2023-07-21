@@ -7,7 +7,7 @@
 ## Kaggle Codes/Notebooks:
 * [Happywhale: Data Distribution 🐋🐬](https://www.kaggle.com/awsaf49/happywhale-data-distribution)
 * [Happywhale: BoundingBox [YOLOv5] 🐋🐬](https://www.kaggle.com/awsaf49/happywhale-boundingbox-yolov5)
-* [Happywhale: Cropped Dataset [YOLOv5] ✂️](https://www.kaggle.com/awsaf49/happywhale-cropped-dataset-yolov5)
+* [Happywhale: Cropped Data Prepare [YOLOv5] ✂️](https://www.kaggle.com/awsaf49/happywhale-cropped-dataset-yolov5)
 
 ## Processed Dataset:
 * [Happywhale: Cropped Dataset [YOLOv5] ds](https://www.kaggle.com/awsaf49/happywhale-cropped-dataset-yolov5-ds) 
